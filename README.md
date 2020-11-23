@@ -1,4 +1,9 @@
-First impressions in React-Native. Inspired by YouTube channel ProgramadorBR - Access in July 29 - 2020.
+# Description:
+
+First impressions in React-Native. This app uses your height and weight to calculate your BMI (body mass index). 
+Inspired by YouTube channel ProgramadorBR - Access in July 29 - 2020.
+
+# Setup:
 
 For tests you need to have React-Native workspace setted in your machine and then run these commands in terminal:
 
